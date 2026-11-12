@@ -1,0 +1,105 @@
+Order_ID,Order_Date,Product_Name,Category,Quantity,Unit_Price,Revenue,Cost,Profit,Region
+ORD-2024-1001,2024-01-12,Cloud Core Platform,Cloud Infrastructure,4,2400.00,9600.00,3840.00,5760.00,North America
+ORD-2024-1002,2024-01-18,Enterprise AI Suite,Enterprise Software,2,5500.00,11000.00,4400.00,6600.00,Europe
+ORD-2024-1003,2024-01-25,Endpoint Threat Shield,Cybersecurity,10,650.00,6500.00,2600.00,3900.00,Asia Pacific
+ORD-2024-1004,2024-02-04,Rackmount HyperNode,Hardware & Servers,1,8500.00,8500.00,5100.00,3400.00,North America
+ORD-2024-1005,2024-02-14,Cloud Core Platform,Cloud Infrastructure,3,2400.00,7200.00,2880.00,4320.00,Europe
+ORD-2024-1006,2024-02-22,Implementation Advisory,Consulting & Support,15,350.00,5250.00,1800.00,3450.00,Latin America
+ORD-2024-1007,2024-03-05,Data Pipeline Engine,Enterprise Software,4,3200.00,12800.00,5120.00,7680.00,North America
+ORD-2024-1008,2024-03-12,Endpoint Threat Shield,Cybersecurity,8,650.00,5200.00,2080.00,3120.00,Middle East
+ORD-2024-1009,2024-03-20,Cloud Storage Cluster,Cloud Infrastructure,6,1800.00,10800.00,4320.00,6480.00,Asia Pacific
+ORD-2024-1010,2024-03-29,Enterprise AI Suite,Enterprise Software,3,5500.00,16500.00,6600.00,9900.00,North America
+ORD-2024-1011,2024-04-06,Rackmount HyperNode,Hardware & Servers,2,8500.00,17000.00,10200.00,6800.00,Europe
+ORD-2024-1012,2024-04-14,Managed Security Ops,Cybersecurity,5,2200.00,11000.00,4400.00,6600.00,North America
+ORD-2024-1013,2024-04-24,Cloud Core Platform,Cloud Infrastructure,5,2400.00,12000.00,4800.00,7200.00,Asia Pacific
+ORD-2024-1014,2024-05-03,Implementation Advisory,Consulting & Support,20,350.00,7000.00,2400.00,4600.00,Europe
+ORD-2024-1015,2024-05-15,Enterprise AI Suite,Enterprise Software,4,5500.00,22000.00,8800.00,13200.00,North America
+ORD-2024-1016,2024-05-22,Zero-Trust Gateway,Cybersecurity,6,1500.00,9000.00,3600.00,5400.00,Latin America
+ORD-2024-1017,2024-06-08,Cloud Storage Cluster,Cloud Infrastructure,8,1800.00,14400.00,5760.00,8640.00,Middle East
+ORD-2024-1018,2024-06-18,Data Pipeline Engine,Enterprise Software,5,3200.00,16000.00,6400.00,9600.00,Asia Pacific
+ORD-2024-1019,2024-06-27,Rackmount HyperNode,Hardware & Servers,2,8500.00,17000.00,10200.00,6800.00,North America
+ORD-2024-1020,2024-07-04,Endpoint Threat Shield,Cybersecurity,12,650.00,7800.00,3120.00,4680.00,Europe
+ORD-2024-1021,2024-07-16,Cloud Core Platform,Cloud Infrastructure,6,2400.00,14400.00,5760.00,8640.00,North America
+ORD-2024-1022,2024-07-28,Enterprise AI Suite,Enterprise Software,3,5500.00,16500.00,6600.00,9900.00,Latin America
+ORD-2024-1023,2024-08-05,Implementation Advisory,Consulting & Support,25,350.00,8750.00,3000.00,5750.00,Asia Pacific
+ORD-2024-1024,2024-08-14,Zero-Trust Gateway,Cybersecurity,8,1500.00,12000.00,4800.00,7200.00,Europe
+ORD-2024-1025,2024-08-25,Data Pipeline Engine,Enterprise Software,6,3200.00,19200.00,7680.00,11520.00,North America
+ORD-2024-1026,2024-09-07,Cloud Storage Cluster,Cloud Infrastructure,7,1800.00,12600.00,5040.00,7560.00,North America
+ORD-2024-1027,2024-09-18,Rackmount HyperNode,Hardware & Servers,3,8500.00,25500.00,15300.00,10200.00,Asia Pacific
+ORD-2024-1028,2024-09-28,Managed Security Ops,Cybersecurity,6,2200.00,13200.00,5280.00,7920.00,Middle East
+ORD-2024-1029,2024-10-09,Enterprise AI Suite,Enterprise Software,5,5500.00,27500.00,11000.00,16500.00,North America
+ORD-2024-1030,2024-10-19,Cloud Core Platform,Cloud Infrastructure,7,2400.00,16800.00,6720.00,10080.00,Europe
+ORD-2024-1031,2024-10-29,Endpoint Threat Shield,Cybersecurity,14,650.00,9100.00,3640.00,5460.00,Latin America
+ORD-2024-1032,2024-11-06,Implementation Advisory,Consulting & Support,30,350.00,10500.00,3600.00,6900.00,North America
+ORD-2024-1033,2024-11-17,Zero-Trust Gateway,Cybersecurity,9,1500.00,13500.00,5400.00,8100.00,Asia Pacific
+ORD-2024-1034,2024-11-26,Data Pipeline Engine,Enterprise Software,7,3200.00,22400.00,8960.00,13440.00,Europe
+ORD-2024-1035,2024-12-05,Cloud Storage Cluster,Cloud Infrastructure,10,1800.00,18000.00,7200.00,10800.00,North America
+ORD-2024-1036,2024-12-14,Rackmount HyperNode,Hardware & Servers,4,8500.00,34000.00,20400.00,13600.00,North America
+ORD-2024-1037,2024-12-20,Enterprise AI Suite,Enterprise Software,6,5500.00,33000.00,13200.00,19800.00,Europe
+ORD-2024-1038,2024-12-28,Managed Security Ops,Cybersecurity,8,2200.00,17600.00,7040.00,10560.00,Asia Pacific
+ORD-2025-1039,2025-01-10,Cloud Core Platform,Cloud Infrastructure,8,2400.00,19200.00,7680.00,11520.00,North America
+ORD-2025-1040,2025-01-19,Data Pipeline Engine,Enterprise Software,6,3200.00,19200.00,7680.00,11520.00,Latin America
+ORD-2025-1041,2025-01-27,Zero-Trust Gateway,Cybersecurity,11,1500.00,16500.00,6600.00,9900.00,Middle East
+ORD-2025-1042,2025-02-08,Enterprise AI Suite,Enterprise Software,5,5500.00,27500.00,11000.00,16500.00,North America
+ORD-2025-1043,2025-02-16,Rackmount HyperNode,Hardware & Servers,3,8500.00,25500.00,15300.00,10200.00,Europe
+ORD-2025-1044,2025-02-24,Endpoint Threat Shield,Cybersecurity,16,650.00,10400.00,4160.00,6240.00,Asia Pacific
+ORD-2025-1045,2025-03-07,Cloud Storage Cluster,Cloud Infrastructure,9,1800.00,16200.00,6480.00,9720.00,North America
+ORD-2025-1046,2025-03-15,Implementation Advisory,Consulting & Support,32,350.00,11200.00,3840.00,7360.00,Europe
+ORD-2025-1047,2025-03-24,Managed Security Ops,Cybersecurity,9,2200.00,19800.00,7920.00,11880.00,North America
+ORD-2025-1048,2025-04-05,Data Pipeline Engine,Enterprise Software,8,3200.00,25600.00,10240.00,15360.00,Asia Pacific
+ORD-2025-1049,2025-04-16,Enterprise AI Suite,Enterprise Software,6,5500.00,33000.00,13200.00,19800.00,North America
+ORD-2025-1050,2025-04-26,Cloud Core Platform,Cloud Infrastructure,9,2400.00,21600.00,8640.00,12960.00,Europe
+ORD-2025-1051,2025-05-06,Rackmount HyperNode,Hardware & Servers,4,8500.00,34000.00,20400.00,13600.00,Latin America
+ORD-2025-1052,2025-05-18,Zero-Trust Gateway,Cybersecurity,12,1500.00,18000.00,7200.00,10800.00,North America
+ORD-2025-1053,2025-05-28,Cloud Storage Cluster,Cloud Infrastructure,11,1800.00,19800.00,7920.00,11880.00,Middle East
+ORD-2025-1054,2025-06-09,Enterprise AI Suite,Enterprise Software,7,5500.00,38500.00,15400.00,23100.00,Europe
+ORD-2025-1055,2025-06-19,Implementation Advisory,Consulting & Support,35,350.00,12250.00,4200.00,8050.00,Asia Pacific
+ORD-2025-1056,2025-06-28,Data Pipeline Engine,Enterprise Software,9,3200.00,28800.00,11520.00,17280.00,North America
+ORD-2025-1057,2025-07-08,Managed Security Ops,Cybersecurity,10,2200.00,22000.00,8800.00,13200.00,North America
+ORD-2025-1058,2025-07-18,Cloud Core Platform,Cloud Infrastructure,10,2400.00,24000.00,9600.00,14400.00,Europe
+ORD-2025-1059,2025-07-29,Endpoint Threat Shield,Cybersecurity,18,650.00,11700.00,4680.00,7020.00,Asia Pacific
+ORD-2025-1060,2025-08-07,Rackmount HyperNode,Hardware & Servers,5,8500.00,42500.00,25500.00,17000.00,North America
+ORD-2025-1061,2025-08-17,Zero-Trust Gateway,Cybersecurity,14,1500.00,21000.00,8400.00,12600.00,Middle East
+ORD-2025-1062,2025-08-27,Enterprise AI Suite,Enterprise Software,8,5500.00,44000.00,17600.00,26400.00,North America
+ORD-2025-1063,2025-09-08,Cloud Storage Cluster,Cloud Infrastructure,12,1800.00,21600.00,8640.00,12960.00,Europe
+ORD-2025-1064,2025-09-19,Implementation Advisory,Consulting & Support,40,350.00,14000.00,4800.00,9200.00,Latin America
+ORD-2025-1065,2025-09-29,Data Pipeline Engine,Enterprise Software,10,3200.00,32000.00,12800.00,19200.00,Asia Pacific
+ORD-2025-1066,2025-10-10,Managed Security Ops,Cybersecurity,12,2200.00,26400.00,10560.00,15840.00,North America
+ORD-2025-1067,2025-10-21,Rackmount HyperNode,Hardware & Servers,5,8500.00,42500.00,25500.00,17000.00,Europe
+ORD-2025-1068,2025-10-30,Cloud Core Platform,Cloud Infrastructure,11,2400.00,26400.00,10560.00,15840.00,North America
+ORD-2025-1069,2025-11-09,Enterprise AI Suite,Enterprise Software,9,5500.00,49500.00,19800.00,29700.00,Asia Pacific
+ORD-2025-1070,2025-11-20,Zero-Trust Gateway,Cybersecurity,15,1500.00,22500.00,9000.00,13500.00,Europe
+ORD-2025-1071,2025-11-28,Endpoint Threat Shield,Cybersecurity,20,650.00,13000.00,5200.00,7800.00,Middle East
+ORD-2025-1072,2025-12-07,Cloud Storage Cluster,Cloud Infrastructure,14,1800.00,25200.00,10080.00,15120.00,North America
+ORD-2025-1073,2025-12-16,Rackmount HyperNode,Hardware & Servers,6,8500.00,51000.00,30600.00,20400.00,North America
+ORD-2025-1074,2025-12-22,Enterprise AI Suite,Enterprise Software,10,5500.00,55000.00,22000.00,33000.00,Europe
+ORD-2025-1075,2025-12-29,Data Pipeline Engine,Enterprise Software,12,3200.00,38400.00,15360.00,23040.00,Latin America
+ORD-2026-1076,2026-01-08,Cloud Core Platform,Cloud Infrastructure,12,2400.00,28800.00,11520.00,17280.00,North America
+ORD-2026-1077,2026-01-16,Managed Security Ops,Cybersecurity,13,2200.00,28600.00,11440.00,17160.00,Asia Pacific
+ORD-2026-1078,2026-01-25,Implementation Advisory,Consulting & Support,42,350.00,14700.00,5040.00,9660.00,Europe
+ORD-2026-1079,2026-02-05,Enterprise AI Suite,Enterprise Software,10,5500.00,55000.00,22000.00,33000.00,North America
+ORD-2026-1080,2026-02-14,Rackmount HyperNode,Hardware & Servers,5,8500.00,42500.00,25500.00,17000.00,Middle East
+ORD-2026-1081,2026-02-23,Zero-Trust Gateway,Cybersecurity,16,1500.00,24000.00,9600.00,14400.00,North America
+ORD-2026-1082,2026-03-04,Cloud Storage Cluster,Cloud Infrastructure,15,1800.00,27000.00,10800.00,16200.00,Europe
+ORD-2026-1083,2026-03-12,Data Pipeline Engine,Enterprise Software,11,3200.00,35200.00,14080.00,21120.00,Asia Pacific
+ORD-2026-1084,2026-03-22,Endpoint Threat Shield,Cybersecurity,22,650.00,14300.00,5720.00,8580.00,Latin America
+ORD-2026-1085,2026-04-03,Enterprise AI Suite,Enterprise Software,11,5500.00,60500.00,24200.00,36300.00,North America
+ORD-2026-1086,2026-04-14,Cloud Core Platform,Cloud Infrastructure,13,2400.00,31200.00,12480.00,18720.00,Europe
+ORD-2026-1087,2026-04-25,Managed Security Ops,Cybersecurity,14,2200.00,30800.00,12320.00,18480.00,North America
+ORD-2026-1088,2026-05-06,Implementation Advisory,Consulting & Support,45,350.00,15750.00,5400.00,10350.00,Asia Pacific
+ORD-2026-1089,2026-05-18,Rackmount HyperNode,Hardware & Servers,6,8500.00,51000.00,30600.00,20400.00,Middle East
+ORD-2026-1090,2026-05-28,Zero-Trust Gateway,Cybersecurity,18,1500.00,27000.00,10800.00,16200.00,Europe
+ORD-2026-1091,2026-06-08,Data Pipeline Engine,Enterprise Software,13,3200.00,41600.00,16640.00,24960.00,North America
+ORD-2026-1092,2026-06-19,Cloud Storage Cluster,Cloud Infrastructure,16,1800.00,28800.00,11520.00,17280.00,Latin America
+ORD-2026-1093,2026-06-29,Enterprise AI Suite,Enterprise Software,12,5500.00,66000.00,26400.00,39600.00,North America
+ORD-2026-1094,2026-07-09,Endpoint Threat Shield,Cybersecurity,25,650.00,16250.00,6500.00,9750.00,Europe
+ORD-2026-1095,2026-07-20,Cloud Core Platform,Cloud Infrastructure,14,2400.00,33600.00,13440.00,20160.00,Asia Pacific
+ORD-2026-1096,2026-08-04,Rackmount HyperNode,Hardware & Servers,6,8500.00,51000.00,30600.00,20400.00,North America
+ORD-2026-1097,2026-08-15,Managed Security Ops,Cybersecurity,15,2200.00,33000.00,13200.00,19800.00,Europe
+ORD-2026-1098,2026-08-26,Zero-Trust Gateway,Cybersecurity,19,1500.00,28500.00,11400.00,17100.00,Middle East
+ORD-2026-1099,2026-09-06,Enterprise AI Suite,Enterprise Software,13,5500.00,71500.00,28600.00,42900.00,North America
+ORD-2026-1100,2026-09-18,Implementation Advisory,Consulting & Support,48,350.00,16800.00,5760.00,11040.00,Asia Pacific
+ORD-2026-1101,2026-09-29,Cloud Storage Cluster,Cloud Infrastructure,17,1800.00,30600.00,12240.00,18360.00,North America
+ORD-2026-1102,2026-10-10,Data Pipeline Engine,Enterprise Software,14,3200.00,44800.00,17920.00,26880.00,Latin America
+ORD-2026-1103,2026-10-22,Rackmount HyperNode,Hardware & Servers,7,8500.00,59500.00,35700.00,23800.00,Europe
+ORD-2026-1104,2026-10-31,Cloud Core Platform,Cloud Infrastructure,15,2400.00,36000.00,14400.00,21600.00,North America

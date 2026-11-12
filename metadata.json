@@ -1,0 +1,6 @@
+{
+  "name": "SalesPredict AI – Sales Prediction & Business Analytics System",
+  "description": "Full-stack academic & enterprise sales analytics and machine learning prediction platform with Linear Regression, Random Forest, trend forecasting, and AI business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
